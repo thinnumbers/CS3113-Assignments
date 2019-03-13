@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(156): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(160): warning C4305: '=': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\Jay Han\source\repos\NYUCodebase\Debug\NYUCodebase.exe
