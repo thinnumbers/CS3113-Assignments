@@ -176,7 +176,7 @@ void flareEntity() {
 		float postion_x = flare.x* TILE_SIZE;
 		float postion_y = flare.y* TILE_SIZE;
 		Entity temp;
-		temp.position = glm::vec3(postion_x, postion_y, 0.0f);
+		
 		if (flare.type == "Start") {
 			temp.type = PLAYER;
 			temp.entityIndex = 19;
@@ -185,7 +185,7 @@ void flareEntity() {
 			temp.type = ITEM;
 			temp.entityIndex = 28;
 		}
-		
+		temp.position = glm::vec3(postion_x, postion_y, 0.0f);
 		temp.spawn = temp.position;
 		allEntities.push_back(temp);
 	}
