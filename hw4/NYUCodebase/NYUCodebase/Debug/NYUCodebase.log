@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(128): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(131): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\Jay Han\source\repos\NYUCodebase\Debug\NYUCodebase.exe
