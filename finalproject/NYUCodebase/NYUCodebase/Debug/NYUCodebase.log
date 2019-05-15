@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(231): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(406): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(986): warning C4018: '<': signed/unsigned mismatch
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(1807): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jay han\source\repos\nyucodebase\nyucodebase\main.cpp(1808): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Jay Han\source\repos\NYUCodebase\Debug\NYUCodebase.exe
